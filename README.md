@@ -1,10 +1,9 @@
 # OpenVPN for Docker
 
-[![Build Status](https://travis-ci.org/stealthizer/docker-openvpn.svg)](https://travis-ci.org/kylemanna/docker-openvpn)
-[![Docker Stars](https://img.shields.io/docker/stars/kylemanna/openvpn.svg)](https://hub.docker.com/r/stealthizer/openvpn/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/kylemanna/openvpn.svg)](https://hub.docker.com/r/stealthizer/openvpn/)
-[![ImageLayers](https://images.microbadger.com/badges/image/kylemanna/openvpn.svg)](https://microbadger.com/#/images/stealthizer/openvpn)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkylemanna%2Fdocker-openvpn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstealthizer%2Fdocker-openvpn?ref=badge_shield)
+[![Build Status](https://travis-ci.org/stealthizer/rpi-openvpn.svg)](https://travis-ci.org/stealthizer/rpi-openvpn)
+[![Docker Stars](https://img.shields.io/docker/stars/stealthizer/rpi-openvpn.svg)](https://hub.docker.com/r/stealthizer/rpi-openvpn/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/stealthizer/rpi-openvpn.svg)](https://hub.docker.com/r/stealthizer/pri-openvpn/)
+[![ImageLayers](https://images.microbadger.com/badges/image/stealthizer/rpi-openvpn.svg)](https://microbadger.com/#/images/stealthizer/rpi-openvpn)
 
 
 OpenVPN server in a Docker container complete with an EasyRSA PKI CA.

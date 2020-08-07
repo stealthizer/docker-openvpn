@@ -1,6 +1,6 @@
-# OpenVPN for Docker
+# OpenVPN for Docker on Raspberry pi
 
-[![Build Status](https://travis-ci.org/stealthizer/rpi-openvpn.svg)](https://travis-ci.org/stealthizer/rpi-openvpn)
+[![Build Status](https://travis-ci.org/stealthizer/docker-openvpn.svg)](https://travis-ci.org/stealthizer/docker-openvpn)
 [![Docker Stars](https://img.shields.io/docker/stars/stealthizer/rpi-openvpn.svg)](https://hub.docker.com/r/stealthizer/rpi-openvpn/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/stealthizer/rpi-openvpn.svg)](https://hub.docker.com/r/stealthizer/pri-openvpn/)
 [![ImageLayers](https://images.microbadger.com/badges/image/stealthizer/rpi-openvpn.svg)](https://microbadger.com/#/images/stealthizer/rpi-openvpn)
